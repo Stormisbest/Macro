@@ -23,4 +23,16 @@ Useful for automating repetitive key presses or AFK tasks in games and other app
 
 ---
 
+## Windows Security
+
+- If your windows security is blocking it, when installed, click on the folder.
+- Then right click on the exe file and click properties.
+- At the bottom click unblock. Then try running again.
+- And if windows security comes up, press more info, then press run anyway.
+
+## Antivirus
+- To get around antivirus simply turn it off.
+- Or if the antivirus allows, make an exception for the .exe. 
+
+
 
