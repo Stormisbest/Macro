@@ -18,7 +18,7 @@ Useful for automating repetitive key presses or AFK tasks in games and other app
 ## Included Files
 
 - `macro.py` — Python source code  
-- `macro.exe` — Standalone Windows executable built with PyInstaller  
+- `macro.exe` — Standalone Windows executable built with PyInstaller (Can be found in dist folder)
 - `logs.txt` — Automatically generated log file storing recorded keystrokes with timestamps
 
 ---
