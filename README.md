@@ -36,5 +36,6 @@ Useful for automating repetitive key presses or AFK tasks in games and other app
 - To get around antivirus simply turn it off.
 - Or if the antivirus allows, make an exception for the .exe. 
 
+---
 
 
